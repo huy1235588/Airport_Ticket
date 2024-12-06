@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+App.config
+/LeThienHuy/App.config
+/LeThienHuy/Properties/Settings.Designer.cs
+/LeThienHuy/Properties/Resources.Designer.cs
+/LeThienHuy/LeThienHuy.csproj
